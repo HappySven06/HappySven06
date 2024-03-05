@@ -1,8 +1,15 @@
-- 👋 Hi, I’m @HappySven06
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Javascript
+# Hi, Sven here
+I am a software development student at TPT (Tallinn polytechnic school).
 
-<!---
-HappySven06/HappySven06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## What I know
+- Javascript
+- HTML
+- CSS
+- C#
+- Bootstrap
+- Express.js
+- Node.js
+- Drizzle ORM
+### Currently learning
+- C++
+- .NET
