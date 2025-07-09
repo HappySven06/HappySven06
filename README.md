@@ -1,77 +1,59 @@
-# Hi, Sven here
-I am a software development student at TPT (Tallinn polytechnic school).
+# Hi, I'm Sven
 
-## My skills
-HTML
- - jsx/tsx
+I'm a software development student at [Tallinn Polytechnic School (TPT)](https://www.tptlive.ee), passionate about full-stack development, game creation, and everything in between. I'm always exploring new technologies and building hands-on projects to grow my skills.
 
-CSS
- - Tailwind CSS
-    - DaisyUI
- - Bootstrap
+---
 
-JavaScript/TypeScript
- - Vue.js
- - React
-    - React Native
- - Node.js
-    - Express.js
-    - AdonisJS
+## Skills Overview
 
-PHP
- - Laravel
+![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,vue,nodejs,express,php,laravel,mysql,mongodb,redis,java,spring,dotnet,unity,cpp,c,docker,git,github,vscode,postman&perline=10)
 
-Database
- - SQL
-    - MySQL
-    - MariaDB
-    - SQLite
-    - MongoDB
- - Redis
+---
 
-ORM
- - Drizzle
- - Sequelize
- - Lucid ORM
+## Tech Stack Breakdown
 
-C#
- - .NET
- - Unity
+### Languages
+- JavaScript / TypeScript
+- PHP
+- C# / Java / C / C++
+- SQL / NoSQL
 
-Java
- - Spring Boot
+### Frontend
+- React / React Native / Vue
+- Tailwind CSS / DaisyUI / Bootstrap
 
-C/C++
+### Backend
+- Node.js (Express.js, AdonisJS)
+- Laravel
+- .NET (C#)
+- Spring Boot (Java)
 
-Version Control
- - Git
+### Databases & ORM
+- MySQL, MariaDB, SQLite, MongoDB, Redis
+- Drizzle, Sequelize, Lucid ORM
 
-DevOps
- - Docker
- - GitHub Actions
+### DevOps & Tools
+- Docker, GitHub Actions
+- Git, GitHub
+- Postman, XAMPP, Terminal
 
-Game Development
- - Unity
- - Unreal Engine
+### IDEs
+- Visual Studio Code
+- Visual Studio
+- IntelliJ IDEA
+- DataGrip, MySQL Workbench
 
-CMS
- - WordPress
+### Game Dev
+- Unity
+- Unreal Engine
 
-OS
- - Windows
-    - Windows
-    - Windows Server
- - Linux
-    - Ubuntu
-    - Ubuntu Server
-  
-Tools
- - Postman
- - MySQL Workbench
- - DataGrip
- - XAMPP
- - Terminal
- - IDEs
-    - Visual Studio Code
-    - Visual Studio
-    - IntelliJ IDEA
+### CMS
+- WordPress
+
+### Operating Systems
+- Windows / Windows Server
+- Ubuntu / Ubuntu Server
+
+---
+
+> _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
